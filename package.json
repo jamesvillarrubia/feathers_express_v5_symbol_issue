@@ -20,8 +20,8 @@
     "mocha": "^10.2.0",
     "supertest": "^6.3.3"
   },
-  "old":{
-    "@feathersjs/feathers":"^5.0.0-pre.38",
-    "@feathersjs/express":"^5.0.0-pre.38"
+  "old": {
+    "@feathersjs/feathers": "^5.0.0-pre.38",
+    "@feathersjs/express": "^5.0.0-pre.38"
   }
 }
